@@ -21,8 +21,8 @@ nav{
 }
 
 nav img{
-    width: 160px;
-    height: 110px;
+    width: 120px;
+    height: 90px;
 }
 
 .nav-links{
@@ -68,12 +68,12 @@ nav img{
 }
 
 .text-box h1{
-    font-size: 62px;
+    font-size: 80px;
 }
 
 .text-box p{
     margin: 10px 0 40px;
-    font-size: 30px;
+    font-size: 18px;
     color: white;
 }
 
